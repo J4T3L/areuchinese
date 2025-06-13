@@ -15,3 +15,4 @@ npm run dev
 Login (admin only)
 email :admin@toko.com
 password : password123# areuchinese
+# areuchinese
